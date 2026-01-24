@@ -1,0 +1,7 @@
+instagram_analytics:
+  outputs:
+    dev:
+      type: duckdb
+      path: 'ae_test_case.db'
+
+  target: dev
